@@ -16,6 +16,9 @@ __pycache__/
 data/
 archive/
 
+#vscode
+.vscode/
+
 # Distribution / packaging
 .Python
 build/
